@@ -17,6 +17,6 @@ The following files are copied unchanged:
 - configs/retrogame.cfg.pigrrl2
 - README.md
 
-The BSD license and copyright notice are retained in retrogame.c. No authorship of these files is claimed by Joseph Dickey.
+The BSD license and copyright notice are retained in retrogame.c. These are Adafruit's files, included for reference.
 
-This is a selected upstream source snapshot for the guide's controller subsystem. It is not the recovered 2024 device source and is not a complete RetroPie installation. Unrelated upstream applications and precompiled binaries are omitted.
+This copy contains the input utility and its build/configuration files. It is not my recovered 2024 firmware or a complete RetroPie installation.
